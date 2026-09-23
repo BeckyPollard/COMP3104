@@ -1,2 +1,3 @@
-# COMP3104-
+# COMP3104 - DevOps
+
 GBC
