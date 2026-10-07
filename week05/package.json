@@ -29,16 +29,16 @@
       "react-app"
     ]
   },
+  "bugs": {
+    "url": "https://github.com/BeckyPollard/COMP3104/issues"
+  },
+  "homepage": "https://github.com/BeckyPollard/COMP3104",
   "browserslist": {
     "production": [
       ">0.2%",
       "not dead",
       "not op_mini all"
     ],
-    "bugs": {
-      "url": "https://github.com/BeckyPollard/COMP3104/issues"
-    },
-    "homepage": "https://github.com/BeckyPollard/COMP3104",
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
