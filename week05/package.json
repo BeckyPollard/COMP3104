@@ -32,7 +32,7 @@
   "bugs": {
     "url": "https://github.com/BeckyPollard/COMP3104/issues"
   },
-  "homepage": "https://github.com/BeckyPollard/COMP3104",
+  "homepage": "https://beckypollard.github.io/COMP3104",
   "browserslist": {
     "production": [
       ">0.2%",

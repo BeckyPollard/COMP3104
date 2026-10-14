@@ -19,5 +19,8 @@
   "homepage": "https://github.com/BeckyPollard/COMP3104#readme",
   "dependencies": {
     "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
